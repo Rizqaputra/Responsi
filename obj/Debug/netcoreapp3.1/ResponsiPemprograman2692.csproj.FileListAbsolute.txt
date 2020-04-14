@@ -1,0 +1,13 @@
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.exe
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.deps.json
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.runtimeconfig.json
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.runtimeconfig.dev.json
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.dll
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\bin\Debug\netcoreapp3.1\ResponsiPemprograman2692.pdb
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.csprojAssemblyReference.cache
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.csproj.CoreCompileInputs.cache
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.AssemblyInfoInputs.cache
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.AssemblyInfo.cs
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.dll
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.pdb
+E:\Belajar\ResponsiPemprograman2692\ResponsiPemprograman2692\obj\Debug\netcoreapp3.1\ResponsiPemprograman2692.genruntimeconfig.cache
